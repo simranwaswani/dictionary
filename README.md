@@ -35,4 +35,4 @@ A simple and user-friendly English Dictionary web app that allows users to searc
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/english-dictionary.git
+   git clone https://github.com/simranwaswani/english-dictionary.git
